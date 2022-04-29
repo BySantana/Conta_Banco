@@ -1,0 +1,16 @@
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\bin\Debug\net5.0\SistemaBanco.exe
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\bin\Debug\net5.0\SistemaBanco.deps.json
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\bin\Debug\net5.0\SistemaBanco.runtimeconfig.json
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\bin\Debug\net5.0\SistemaBanco.runtimeconfig.dev.json
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\bin\Debug\net5.0\SistemaBanco.dll
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\bin\Debug\net5.0\SistemaBanco.pdb
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.csproj.AssemblyReference.cache
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.AssemblyInfoInputs.cache
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.AssemblyInfo.cs
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.dll
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\refint\SistemaBanco.dll
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.pdb
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\SistemaBanco.genruntimeconfig.cache
+C:\Users\nanar\source\repos\Exercicio1\SistemaBanco\obj\Debug\net5.0\ref\SistemaBanco.dll
